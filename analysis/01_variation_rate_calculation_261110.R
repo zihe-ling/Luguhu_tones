@@ -10,7 +10,7 @@ library(purrr)
 library(tibble)
 
 # ---------- 1. 读入 Excel 文件 ----------
-file_path <- "Luguhu_tone_variation_261110.xlsx"
+file_path <- "C:/Luguhu_tones/analysis_manual/Luguhu_tone_variation_261110.xlsx"
 df <- read_excel(file_path)
 
 # 如列名不是“姓名、调类、COP、EXT、性别、出生年、教育程度、摩梭话比重”，请重命名：

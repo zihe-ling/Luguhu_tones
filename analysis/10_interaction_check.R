@@ -189,7 +189,7 @@ write_xlsx(
                         "纳入（需说明）", "不纳入")
       )
   ),
-  path = "交互检验结果.xlsx"
+  path = "C:/Luguhu_tones/data/交互检验结果.xlsx"
 )
 
-cat("\n已保存：", normalizePath("交互检验结果.xlsx"), "\n")
+cat("\n已保存：", normalizePath("C:/Luguhu_tones/data/交互检验结果.xlsx"), "\n")
